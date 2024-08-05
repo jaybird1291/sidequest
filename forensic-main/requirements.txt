@@ -1,0 +1,8 @@
+malware
+forensic
+requests
+termcolor
+scapy
+ipinfo
+pefile
+yara-python
