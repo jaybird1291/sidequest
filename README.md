@@ -1,9 +1,9 @@
 # Side Quest
 _École 2600 - Promo 2026 - Année 2023-2024_
 
-Our Side Quest is a collaborative student project designed to provide a powerful toolkit for forensic analysis and malware reverse engineering. This repository contains two sub-projects that focus on different aspects of investigation:
+Our Side Quest is a collaborative student project designed to provide a powerful toolkit for forensic analysis and malware analysis. This repository contains two sub-projects that focus on different aspects of investigation:
 - **Forensic Analysis**: Tools for analyzing network traffic captured in PCAP files.
-- **Malware Reverse Engineering**: Tools for dissecting binary files to uncover hidden information and detect malicious characteristics.
+- **Malware Analysis**: Tools for dissecting binary files to uncover hidden information and detect malicious characteristics.
 
 # Mains features
 ## Forensic Analysis
@@ -11,7 +11,7 @@ Our Side Quest is a collaborative student project designed to provide a powerful
 - Extract files from network captures and compute their hashes.
 - Integrate with VirusTotal for file reputation analysis.
 - Utilize tools like tshark and scapy for in-depth packet inspection.
-## Reverse Malware Engineering
+## Malware Analysis
 - Analyze binary files to extract useful metadata and signatures.
 - Perform string extraction, entropy analysis, and PE header enumeration.
 - Detect programming languages and packed or obfuscated code.
@@ -27,7 +27,7 @@ Both sub-projects require Python and certain external tools and libraries. Below
   - `tshark` 
   - API keys for VirusTotal and IPinfo (required for specific scripts)
 
-## Malware Reverse Engineering Dependencies
+## Malware Analysis Dependencies
 - Python 3.x
 - Libraries: `yara-python`, `pefile`
 - Tools:
