@@ -20,7 +20,7 @@ Our Side Quest is a collaborative student project designed to provide a powerful
 # Dependencies
 Both sub-projects require Python and certain external tools and libraries. Below are the key dependencies for each:
 
-## Forensic Analysis Dependencies
+## Network Forensic Analysis Dependencies
 - Python 3.x
 - Libraries: `scapy`, `requests`
 - Tools:
