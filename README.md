@@ -2,7 +2,7 @@
 _École 2600 - Promo 2026 - Année 2023-2024_
 
 Our Side Quest is a collaborative student project designed to provide a powerful toolkit for forensic analysis and malware analysis. This repository contains two sub-projects that focus on different aspects of investigation:
-- **Forensic Analysis**: Tools for analyzing network traffic captured in PCAP files.
+- **Network Forensic Analysis**: Tools for analyzing network traffic captured in PCAP files.
 - **Malware Analysis**: Tools for dissecting binary files to uncover hidden information and detect malicious characteristics.
 
 # Mains features
