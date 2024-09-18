@@ -6,7 +6,7 @@ Our Side Quest is a collaborative student project designed to provide a powerful
 - **Malware Analysis**: Tools for dissecting binary files to uncover hidden information and detect malicious characteristics.
 
 # Mains features
-## Forensic Analysis
+## Network Forensic Analysis
 - Analyze PCAP files to gather data on IP addresses, network protocols, and traffic patterns.
 - Extract files from network captures and compute their hashes.
 - Integrate with VirusTotal for file reputation analysis.
